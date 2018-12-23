@@ -2,7 +2,7 @@ var contractAddress
 var tronWeb
 
 try {
-  contractAddress = "TChs9ktvon4BuMev1RpL6vK5mBk1oSASTF"
+  contractAddress = "aChs9atwon4BuMev1sawL6vK5wsk1oSAswF"
   tronWeb = new TronWeb(
       metacoinConfig.fullHost,
       metacoinConfig.fullHost,
@@ -12,14 +12,14 @@ try {
 } catch (err) {
   console.log('The app looks not configured. Please run `npm run migrate`')
 }
-
+</br>
 
 App = {
   tronWebProvider: null,
   contracts: {},
   accounts: [],
   contractAddress: contractAddress,
-  privateKey: "da146374a75310b9666e834ee4ad0866d6f4035967bfc76217c5a495fff9f0d0",
+  privateKey: "61o0w98fw40dca58b06d60a2dpm82600g8wdd6d21c4658340d7dbdej3211w3d50",
   feeLimit: 100000000,
   callValue: 0,
   abi: [
@@ -147,7 +147,7 @@ App = {
   init: async function () {
 
     this.accounts = [
-      tronWeb.address.fromPrivateKey("61b0498f6403aa58b04f60a2d0682600b89e6d25c4658340d7dbfe63211e3652")
+      tronWeb.address.fromPrivateKey("61o0w98fw40dca58b06d60a2dpm82600g8wdd6d21c4658340d7dbdej3211w3d50")
     ]
 
 

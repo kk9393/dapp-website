@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62134ee5-21aa-4976-8d7f-f6650dcf032d" name="Default Changelist" comment="" />
+    <list default="true" id="62134ee5-21aa-4976-8d7f-f6650dcf032d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/js/0x1kj_joqnzslw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/ConvertLib.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/MetaCoin.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coloron.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/coloron.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/grass.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/grass.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/work/project-detail-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/work/project-detail-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/work/project-detail-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/work/project-detail-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/coloron.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/dlsj_sn13x0fh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/svgicon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/17gxd57_sok0x.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/towerblocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/0x3kjnowb_qoxx0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/tronweb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project-detail-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/towerblocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/towerblocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/what-we-do.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/what-we-do.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tronbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/tronbox.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,37 +73,81 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1814878909">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="12" />
+          <entry key="js" value="22" />
+          <entry key="sol" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="12" />
+          <entry key="JavaScript" value="22" />
+          <entry key="Solidity file" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="760" />
+          <entry key="js" value="691" />
+          <entry key="sol" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="760" />
+          <entry key="JavaScript" value="691" />
+          <entry key="Solidity file" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
+        <entry file="file://$PROJECT_DIR$/src/js/17gxd57_sok0x.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="23" selection-start-line="23" selection-end-line="27" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#header#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="543">
+              <caret column="387029" selection-start-column="387029" selection-end-column="387029" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/main.css">
+        <entry file="file://$PROJECT_DIR$/src/coloron.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="70" column="2602" selection-start-line="70" selection-start-column="2602" selection-end-line="70" selection-end-column="2602" />
+            <state relative-caret-position="565">
+              <caret column="4342" selection-start-column="4342" selection-end-column="4342" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret column="2320" lean-forward="true" selection-start-column="2320" selection-end-column="2320" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/coloron.html">
+        <entry file="file://$PROJECT_DIR$/src/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
+            <state relative-caret-position="220">
+              <caret line="149" column="103" selection-start-line="149" selection-start-column="103" selection-end-line="149" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -88,62 +155,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/towerblocks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret column="925" selection-start-column="925" selection-end-column="925" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/svgicon.js">
+        <entry file="file://$PROJECT_DIR$/src/js/dlsj_sn13x0fh.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="135">
+              <caret column="978" selection-start-column="978" selection-end-column="978" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/towerblocks.js">
+        <entry file="file://$PROJECT_DIR$/src/js/0x1kj_joqnzslw.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3225">
-              <caret line="208" column="11" selection-start-line="208" selection-start-column="11" selection-end-line="208" selection-end-column="11" />
+            <state relative-caret-position="594">
+              <caret column="2102235" selection-start-column="2102235" selection-end-column="2102235" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/towerblocks.css">
+        <entry file="file://$PROJECT_DIR$/src/scripts/pyaari-main.1.0.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="53" column="22" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="22" />
+            <state relative-caret-position="330">
+              <caret line="22" column="38" lean-forward="true" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="555">
+              <caret column="4131" selection-start-column="4131" selection-end-column="4131" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#header#0;n#section#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#section#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/towerblocks.scss">
+        <entry file="file://$PROJECT_DIR$/src/what-we-do.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2505">
-              <caret line="167" selection-start-line="167" selection-end-line="167" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/coloron.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="346" selection-start-line="346" selection-end-line="346" />
+            <state relative-caret-position="315">
+              <caret column="2485" selection-start-column="2485" selection-end-column="2485" />
             </state>
           </provider>
         </entry>
@@ -152,23 +216,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>POO</find>
-      <find>tweet</find>
-      <find>h4</find>
-      <find>start</find>
-      <find>final-score</find>
-      <find>poo</find>
-      <find>changeColor</find>
-      <find>stick</find>
-      <find>play-again</find>
-      <find>result</find>
-      <find>#score</find>
       <find>pyar</find>
       <find>our-work</find>
       <find>h3</find>
       <find>BlockReturn</find>
       <find>click</find>
-      <find>restartGame</find>
       <find>scoreContainer</find>
       <find>you</find>
       <find>startButton</find>
@@ -182,7 +234,22 @@
       <find>back</find>
       <find>play</find>
       <find>tw</find>
+      <find>ether</find>
+      <find>swa</find>
+      <find>swal</find>
+      <find>restartGame</find>
+      <find>contract</find>
+      <find>globalscore</find>
+      <find>startcontinuePlayingEventListener</find>
+      <find>grass</find>
+      <find>catch</find>
+      <find>tron</find>
+      <find>codep</find>
+      <find>pya</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -194,21 +261,30 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/js/app.js" />
-        <option value="$PROJECT_DIR$/src/about.html" />
-        <option value="$PROJECT_DIR$/src/project-detail-page.html" />
-        <option value="$PROJECT_DIR$/src/what-we-do.html" />
         <option value="$PROJECT_DIR$/src/scripts/pyaari-main.1.0.js" />
         <option value="$PROJECT_DIR$/src/css/coloron.css" />
-        <option value="$PROJECT_DIR$/src/js/coloron.js" />
-        <option value="$PROJECT_DIR$/src/styles/main.css" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/css/towerblocks.scss" />
         <option value="$PROJECT_DIR$/src/css/towerblocks.css" />
-        <option value="$PROJECT_DIR$/src/js/towerblocks.js" />
         <option value="$PROJECT_DIR$/src/js/towerblocksicon.js" />
-        <option value="$PROJECT_DIR$/src/towerblocks.html" />
+        <option value="$PROJECT_DIR$/bs-config.js" />
+        <option value="$PROJECT_DIR$/contracts/CodeXpertDGames.sol" />
+        <option value="$PROJECT_DIR$/migrations/2_deploy_contracts.js" />
+        <option value="$PROJECT_DIR$/tronbox.js" />
+        <option value="$PROJECT_DIR$/src/js/svgicon.js" />
+        <option value="$PROJECT_DIR$/src/js/towerblocks.js" />
+        <option value="$PROJECT_DIR$/src/js/coloron.js" />
+        <option value="$PROJECT_DIR$/src/project-detail-page.html" />
+        <option value="$PROJECT_DIR$/src/styles/main.css" />
+        <option value="$PROJECT_DIR$/src/js/0x3kjnowb_qoxx0.js" />
+        <option value="$PROJECT_DIR$/src/js/17gxd57_sok0x.js" />
+        <option value="$PROJECT_DIR$/src/js/dlsj_sn13x0fh.js" />
+        <option value="$PROJECT_DIR$/src/js/tronweb.js" />
         <option value="$PROJECT_DIR$/src/coloron.html" />
+        <option value="$PROJECT_DIR$/src/towerblocks.html" />
+        <option value="$PROJECT_DIR$/src/about.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/what-we-do.html" />
+        <option value="$PROJECT_DIR$/src/js/app.js" />
       </list>
     </option>
   </component>
@@ -216,53 +292,52 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DApp_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DApp_site" type="462c0819:PsiDirectoryNode" />
+              <item name="00_DApp_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00_DApp_site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DApp_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DApp_site" type="462c0819:PsiDirectoryNode" />
+              <item name="00_DApp_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00_DApp_site" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="00_DApp_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00_DApp_site" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="00_DApp_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00_DApp_site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DApp_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DApp_site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DApp_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DApp_site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DApp_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DApp_site" type="462c0819:PsiDirectoryNode" />
+              <item name="00_DApp_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00_DApp_site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DApp_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DApp_site" type="462c0819:PsiDirectoryNode" />
+              <item name="00_DApp_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00_DApp_site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DApp_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DApp_site" type="462c0819:PsiDirectoryNode" />
+              <item name="00_DApp_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00_DApp_site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -270,10 +345,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545451147627" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545549162565" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -305,16 +382,13 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -322,55 +396,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="149" column="102" selection-start-line="149" selection-start-column="102" selection-end-line="149" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/project-detail-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/what-we-do.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scripts/pyaari-main.1.0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/coloron.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -384,17 +426,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/coloron.js">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="346" selection-start-line="346" selection-end-line="346" />
-        </state>
+        <state relative-caret-position="-1234" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/src/css/towerblocks.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/towerblocks.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="70" column="2602" selection-start-line="70" selection-start-column="2602" selection-end-line="70" selection-end-column="2602" />
+        <state relative-caret-position="795">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -405,65 +448,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/migrations/2_deploy_contracts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1234" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tronbox-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/towerblocks.css.map">
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="23" selection-start-line="23" selection-end-line="27" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#header#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/towerblocks.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="53" column="22" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/towerblocks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3225">
-          <caret line="208" column="11" selection-start-line="208" selection-start-column="11" selection-end-line="208" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/svgicon.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/towerblocks.html">
+    <entry file="file://$PROJECT_DIR$/migrations/1_initial_migration.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Freelance_work/TRX_Vault/Tron-vault/tronbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" lean-forward="true" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Freelance_work/TRX_Vault/Tron-vault/src/components/App/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="186" column="12" lean-forward="true" selection-start-line="179" selection-start-column="10" selection-end-line="186" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tronbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="104" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/CodeXpertDGames.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project-detail-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="71" column="3" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="70" column="6028" selection-start-line="70" selection-start-column="6028" selection-end-line="70" selection-end-column="6028" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../00_DApp_site_dev/src/js/0x3kjnowb_qoxx0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1861" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/0x3kjnowb_qoxx0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret column="1732" selection-start-column="1732" selection-end-column="1732" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/17gxd57_sok0x.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret column="387029" selection-start-column="387029" selection-end-column="387029" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/pyaari-main.1.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" lean-forward="true" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coloron.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="565">
+          <caret column="4342" selection-start-column="4342" selection-end-column="4342" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret column="2320" lean-forward="true" selection-start-column="2320" selection-end-column="2320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret column="4131" selection-start-column="4131" selection-end-column="4131" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#header#0;n#section#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#section#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/what-we-do.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret column="2485" selection-start-column="2485" selection-end-column="2485" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/0x1kj_joqnzslw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret column="2102235" selection-start-column="2102235" selection-end-column="2102235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/towerblocks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret column="925" selection-start-column="925" selection-end-column="925" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/dlsj_sn13x0fh.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret column="978" selection-start-column="978" selection-end-column="978" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="149" column="103" selection-start-line="149" selection-start-column="103" selection-end-line="149" selection-end-column="103" />
         </state>
       </provider>
     </entry>
